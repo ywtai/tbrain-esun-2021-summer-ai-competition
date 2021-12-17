@@ -2,7 +2,7 @@
 ![E-SUN Competition](https://github.com/ywtai/tbrain-esun-2021-summer-ai-competition/blob/main/image/tbrain.png?raw=true)
 
 ## Description
-TBrain E-SUN 2021 Summer AI Competition is an AI competition for handwriting Chinese characters recognition. E-SUN provide dataset with 800 categories of single traditional Chinese character image. Besides, during the competition, we need to upload our model into server and use API to receive test images and return results.
+TBrain E-SUN 2021 Summer AI Competition is an AI competition for handwriting Chinese characters recognition. E-SUN provide dataset with 800 categories of single handwriting traditional Chinese character image. Besides, during the competition, we need to upload our model into server and use API to receive test images and return results.
 
 
 ## Result 
